@@ -10,3 +10,10 @@ Schritt 3: Schreibt eine instanzielle Methode 'incrementInstanceCount', die die 
 Schritt 4: Erstellt in der main-Methode mehrere Objekte der Klasse und ruft sowohl die statische als auch die instanzielle Methode auf.
 
 Schritt 5: Gebt nach den Methodenaufrufen die aktuellen Werte von 'totalCount' und 'instanceCount' aus.
+
+###Extra
+Erstellt eine neue Klasse 'Calculator' mit einer statischen Methode 'add', die zwei Zahlen als Parameter entgegennimmt und ihre Summe zurückgibt.
+
+Schreibt in der main-Methode Code, um die 'add'-Methode aufzurufen und das Ergebnis auszugeben.
+
+Optional: Implementiert weitere statische Methoden in der 'Calculator'-Klasse (Subtraktion, Multiplikation, Division) und ruft sie in der main-Methode auf.
