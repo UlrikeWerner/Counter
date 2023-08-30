@@ -19,5 +19,14 @@ public class Main {
         System.out.println("instanceCount c1: "+ c1.getInstanceCount());
         System.out.println("instanceCount c2: "+ c2.getInstanceCount());
         System.out.println("instanceCount c3: "+ c3.getInstanceCount());
+
+        System.out.println("--------------------");
+        System.out.println("add: " + Calculator.add(7, 42));
+        System.out.println("sub: " + Calculator.sub(7, 42));
+        System.out.println("sub: " + Calculator.sub(42, 7));
+        System.out.println("multi: " + Calculator.multi(7, 5));
+        System.out.println("div: " + Calculator.div(7, 5));
+        System.out.println("mod: " + Calculator.mod(6, 5));
+        System.out.println("xor: " + Calculator.xor(5, 5));
     }
 }
